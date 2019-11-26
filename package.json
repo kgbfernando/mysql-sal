@@ -14,6 +14,6 @@
   "author": "Luiz Fernando Furtado",
   "license": "ISC",
   "dependencies": {
-    "mysql-promise": "^5.0.0"
+    "promise-mysql": "^4.1.1"
   }
 }
