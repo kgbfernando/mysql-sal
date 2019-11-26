@@ -1,0 +1,19 @@
+{
+  "name": "mysql-sal",
+  "version": "0.0.0",
+  "description": "mySQL simple abstraction layer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mysql",
+    "abstraction",
+    "util"
+  ],
+  "author": "Luiz Fernando Furtado",
+  "license": "ISC",
+  "dependencies": {
+    "mysql-promise": "^5.0.0"
+  }
+}
